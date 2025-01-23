@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oly-rani&label=Profile%20views&color=0e75b6&style=flat" alt="oly-rani" /> </p>
 
-- 🌱 I’m currently learning **App Development with flutter at OSTAD Learning Platform**
+- 🌱 I’m currently working at **Softvence Agency**
 
 - 👨‍💻 All of my projects are available at [https://lnkd.in/gJarGdNP](https://lnkd.in/gJarGdNP)
 
