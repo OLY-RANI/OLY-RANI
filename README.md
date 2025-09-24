@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oly-rani&label=Profile%20views&color=0e75b6&style=flat" alt="oly-rani" /> </p>
 
-- 🌱 I’m currently working at **Softvence Agency**
+- 🌱 I’m currently working at **Dhrubok Infotech Services Ltd.**
 
 - 👨‍💻 All of my projects are available at [https://lnkd.in/gJarGdNP](https://lnkd.in/gJarGdNP)
 
